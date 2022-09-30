@@ -66,6 +66,8 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [Vegeta](https://github.com/tsenart/vegeta)
 * [wrk](https://github.com/wg/wrk)
 * [redis-faina](https://github.com/Instagram/redis-faina) Instagram's Redis counter/timing stats based on the MONITOR command
+* [tigerproj](https://github.com/djinn/tigerprof) Java Performance management tool which uses JVM Tooling Interface to capture traces. Useful in conjugation with Flamegraph
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) Visualize what parts of application are taking time.
 
 
 ## Data
